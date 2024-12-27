@@ -3,6 +3,7 @@
 Scripts to work with ARPA-h data.
 
 **get_team_table.py**
+
 For web scraping teaming partners table on ARPA-H programs pages.
 
 ARPA-H has several programs. (https://arpa-h.gov/research-and-funding/programs)
@@ -13,6 +14,7 @@ The get_team_table.py script retrieves that table from the webpage and parses th
 The csv can then be read using Excel or pandas if you want to do further processing.
 
 **fundingmap.py**
+
 ARPA-H does a great job of maintaining a list of awarded programs, all on a single page:
 https://arpa-h.gov/research-and-funding/mission-office-iso/awardees
 
