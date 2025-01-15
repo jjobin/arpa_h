@@ -21,4 +21,5 @@ https://arpa-h.gov/research-and-funding/mission-office-iso/awardees
 The fundingmap.py retrieves this data, converts city names to latitude/longitude values, creates a map with this information.
 The size of the circles is proportional to the funding amount: bigger circles = larger funded amounts.
 
-The 'arpah.html' file is a sample output file. You can download it and open it in any web browser.
+The 'arpah.html' file is a sample output file. You can download it and open it in any web browser. Here's an example of what it looks like, based on a data pull on Dec 26, 2024.
+https://rawcdn.githack.com/jjobin/arpa_h/2cb9222698e6d67e77e12305135b5180444e6810/arpah.html
